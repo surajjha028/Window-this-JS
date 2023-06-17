@@ -1,5 +1,3 @@
-﻿# Window-this-JS
-
 ## Window :
 
 Actually it is like a big object, with lot of functions and methods. And this function and methods are created by JS Engine into Global scope .
