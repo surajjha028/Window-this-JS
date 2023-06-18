@@ -1,9 +1,9 @@
-var x = "Global Scope";
+var x = 10;
 
 function smile() {
-    var x = "Local scope"
-    console.log(x); // Local Scope 
+    var b = 20;
+    console.log(b); // 20 
 }
 
 smile();
-console.log(x) // global scope 
+console.log(x) // 10 
